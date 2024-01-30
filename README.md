@@ -4,7 +4,7 @@ python3 main.py FileName Threads
 FileName: IP adresi listesini içeren dosyanın adı.
 Threads: Aynı anda işlenecek bağlantı sayısı.
 
-#En
+# En
 Usage:
 python3 main.py FileName Threads
 
